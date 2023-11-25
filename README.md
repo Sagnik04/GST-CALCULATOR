@@ -1,4 +1,4 @@
-# starting_project
+# gst_calculator
 
 A new Flutter project.
 
